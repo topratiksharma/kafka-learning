@@ -1,0 +1,13 @@
+{
+  "name": "kafka-learning",
+  "version": "1.0.0",
+  "main": "admin.js",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "description": "Implmenting Kafka queue with multiple consumers and producer to build a messaging system",
+  "repository": "https://github.com/topratiksharma/kafka-learning.git",
+  "author": "Pratik Sharma",
+  "private": false
+}
